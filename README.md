@@ -1,4 +1,4 @@
-# Backend Assignment — Scalable REST API with Auth, RBAC & React Frontend
+# Backend Assignment: Scalable REST API with Auth, RBAC & React Frontend
 
 A production-style full-stack project built for the Backend Developer (Intern) assignment.
 
